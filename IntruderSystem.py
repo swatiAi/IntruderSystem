@@ -6,7 +6,7 @@ messages = [
     "System Armed",
     "Intruder detected!",
     "Fire detected!",
-    "System Disarmed123"
+    "System Disarmed1234"
 ]
 
 # Starting with System Armed
